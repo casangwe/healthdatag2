@@ -1,0 +1,9 @@
+
+
+
+DB_HOST=cardio-db.crkc44qquibr.us-east-1.rds.amazonaws.com
+DB_USER=admin
+DB_PASSWORD=rootroot
+DB_NAME=cardio-db
+
+.env
