@@ -1,5 +1,5 @@
-aws_access_key_id = 'AKIAZI2LEECWUPJBXVVY'
-aws_secret_access_key = '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'
+aws_access_key_id = 'key deleted for security reasons'
+ aws_secret_access_key = 'key deleted for security reasons'
 region_name = 'us-east-1'
 bucket_name = 'cardiovascular-disease-data'
 
